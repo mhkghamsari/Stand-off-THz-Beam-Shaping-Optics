@@ -16,8 +16,9 @@ Research on single-curvature dielectric lenses that transform a divergent Gaussi
 - Concise project summaries, publication links, and selected figures from the author project files.
 - The English-language Tabriz author manuscript, labelled separately from the journal version of record.
 - A standalone MATLAB example for calculating and plotting the 100 GHz plano-convex lens profile. It uses the analytical method and parameters in the project files; it does not claim to reproduce the full simulated field results.
+- Research MATLAB notebooks, their comparison data exports, and two COMSOL model files for further inspection.
 
-The local source folders also contain research notebooks, COMSOL models, CST exports, and field grids. Those materials are not part of this public selection. The *Applied Optics* [article](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-2-551) states that underlying data are available from the authors on reasonable request. See [Reproducibility and further files](REPRODUCIBILITY.md) for a curated inventory and release guidance.
+The [Applied Optics project](applied-optics-2026/) now includes an author-revised manuscript, research notebooks, comparison field exports, and COMSOL models. The notebooks are research artifacts rather than a complete automated reproduction package: a helper function named `SFT` was not found in the inspected source tree. The published [article](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-2-551) says underlying data are available from the authors on reasonable request; selected exports are now available here. See [Reproducibility and further files](REPRODUCIBILITY.md) for file provenance and limitations.
 
 ## Citation
 
@@ -25,4 +26,4 @@ If this work is useful, please cite the applicable journal article using its DOI
 
 ## Use of materials
 
-The publication links identify the versions of record. The Applied Optics author-revised PDF was deliberately not copied into this repository because it carries a publisher reuse notice. No license is granted for the papers, figures, or code by this repository; contact the authors for reuse beyond applicable law or the publisher's terms.
+The publication links identify the versions of record. The [Applied Optics author-revised manuscript](applied-optics-2026/paper/AO_583170_author_revised_manuscript.pdf) is distinct from the publisher's final PDF and carries the publisher's reuse notice. No license is granted for the papers, figures, or code by this repository; contact the authors for reuse beyond applicable law or the publisher's terms.

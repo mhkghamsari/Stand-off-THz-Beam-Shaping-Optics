@@ -1,0 +1,40 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.asv
+*.autosave
+*~
+
+# MATLAB generated files
+*.mat
+*.m~
+*.mlx.autosave
+slprj/
+codegen/
+
+# COMSOL generated or recovery files
+*.mph.lock
+*.mphbin
+*.mph.lockfile
+*_recovery/
+*.mph~
+
+# CST generated products and caches
+*.sdb
+*.fsf
+*.scf
+*.log
+*.tmp
+
+# Generated analysis outputs; curated figures are kept in figures/
+results/
+output/
+temp/
+tmp/
+
+# Private correspondence and submission material
+*Submission Confirmation*
+*Referee*
+*Reviewers*
+*Proofs.pdf

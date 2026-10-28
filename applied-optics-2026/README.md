@@ -26,7 +26,7 @@ The original research notebooks are also available: [`PCL_vs_CCL.mlx`](matlab/co
 
 - [Publisher abstract and version of record](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-2-551)
 - [Supplementary information at the publisher](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-2-551)
-- [Author-revised manuscript PDF](paper/AO_583170_author_revised_manuscript.pdf), copied from the local `arXiv` preparation folder. It is **not** the publisher's final version, and no public arXiv identifier was verified from the supplied files.
+- [Author-revised manuscript PDF](paper/AO_583170_author_revised_manuscript.pdf)
 - The publisher's data-availability statement says underlying data may be obtained from the authors on reasonable request. Selected exported fields and models are now included in this repository, but no claim is made that they cover every result in the article.
 
 The manuscript's first page carries the Optica Publishing Group copyright and reuse notice. The [publisher's article abstract](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-2-551) is the version-of-record link:
